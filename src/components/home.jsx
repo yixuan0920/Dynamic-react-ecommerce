@@ -1,7 +1,6 @@
 import React, { useEffect, useState } from "react";
-import Maggie from "/maggie-removebg-preview.png";
 import axios from "axios";
-import Footer from "./components/footer";
+import Footer from "./footer";
 import { Link } from "react-router-dom";
 
 export default function Home() {

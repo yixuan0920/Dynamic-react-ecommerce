@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom/client'
 import './index.css'
 import { BrowserRouter, Routes, Route, Link } from "react-router-dom"
 import Nav from './components/nav'
-import Home from './Home'
+import Home from './components/home'
 import Categories from './components/categories/categories'
 import Cart from './components/mycart/cart'
 import FAQ from './components/faq'
